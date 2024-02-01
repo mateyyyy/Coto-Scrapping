@@ -10,5 +10,4 @@ Este codigo se puede utilizar para paginas web ya que podemos exportar los datos
 ![image](https://github.com/mateyyyy/Coto-Scrapping/assets/65136286/7fd52538-aa36-4c11-8c4b-53b678824aee)
 
 Ejemplo de uso en una pagina web, interactuando front en javascript con backend en python creando un servidor local con Flask
-![image](https://github.com/mateyyyy/Coto-Scrapping/assets/65136286/630c18d2-07f7-4047-a976-a208239a91b3)
-
+![ezgif com-video-to-gif-converter](https://github.com/mateyyyy/Coto-Scrapping/assets/65136286/398c8b9f-ca00-487a-ba23-9666e9225bd8)
